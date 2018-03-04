@@ -1,0 +1,33 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.basketballDemo",
+  "privateKey": "",
+  "renderMode": "1",
+  "startScene": "42774c54-9d98-41c4-971b-bd696467c86f",
+  "title": "basketballDemo",
+  "webOrientation": "portrait",
+  "wechatgame": {
+    "appid": "wxb9ba19d19280bbf9",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "9a61247c-4505-4b",
+  "zipCompressJs": true
+}
