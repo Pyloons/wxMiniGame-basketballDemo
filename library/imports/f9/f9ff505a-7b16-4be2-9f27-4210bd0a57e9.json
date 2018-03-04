@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "basket-line",
+    "texture": "989ad900-7d7f-4947-bc9a-a9985a21d08f",
+    "atlas": "",
+    "rect": [
+      16,
+      0,
+      4,
+      32
+    ],
+    "offset": [
+      2,
+      0
+    ],
+    "originalSize": [
+      32,
+      32
+    ]
+  }
+}

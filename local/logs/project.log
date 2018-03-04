@@ -1,0 +1,485 @@
+2018-03-04T06:52:28.555Z - normal: Load ~/.CocosCreator/settings.json
+2018-03-04T06:52:28.566Z - normal: checking language setting...
+2018-03-04T06:52:28.567Z - normal: Language: zh
+2018-03-04T06:52:31.977Z - success: protocol editor-framework registered
+2018-03-04T06:52:31.977Z - success: protocol app registered
+2018-03-04T06:52:31.977Z - success: protocol theme registered
+2018-03-04T06:52:31.977Z - success: protocol packages registered
+2018-03-04T06:52:31.978Z - success: protocol unpack registerred
+2018-03-04T06:52:31.978Z - success: protocol disable-commonjs registerred
+2018-03-04T06:52:32.242Z - normal: connected!
+2018-03-04T06:52:32.245Z - normal: Check project E:\miniGameProjects\basketballDemo
+2018-03-04T06:52:32.250Z - normal: Initializing Cocos2d
+2018-03-04T06:52:32.730Z - normal: Initializing Asset Database
+2018-03-04T06:52:32.826Z - success: protocol uuid registerred
+2018-03-04T06:52:32.827Z - success: protocol db registerred
+2018-03-04T06:52:32.827Z - success: protocol thumbnail registerred
+2018-03-04T06:52:32.828Z - normal: Loading editor/builtin packages
+2018-03-04T06:52:32.878Z - success: anysdk loaded
+2018-03-04T06:52:33.146Z - success: assets loaded
+2018-03-04T06:52:33.152Z - success: builder loaded
+2018-03-04T06:52:33.156Z - success: cocos-analytics loaded
+2018-03-04T06:52:33.161Z - success: console loaded
+2018-03-04T06:52:33.164Z - success: hierarchy loaded
+2018-03-04T06:52:33.170Z - success: inspector loaded
+2018-03-04T06:52:33.173Z - success: keystore loaded
+2018-03-04T06:52:33.177Z - success: node-library loaded
+2018-03-04T06:52:33.180Z - success: package-asset loaded
+2018-03-04T06:52:33.183Z - success: preferences loaded
+2018-03-04T06:52:33.185Z - success: project-exporter loaded
+2018-03-04T06:52:33.212Z - success: project-importer loaded
+2018-03-04T06:52:33.217Z - success: project-settings loaded
+2018-03-04T06:52:33.222Z - success: ui-kit loaded
+2018-03-04T06:52:33.225Z - success: ui-grid loaded
+2018-03-04T06:52:33.231Z - success: scene loaded
+2018-03-04T06:52:33.233Z - success: sprite-editor loaded
+2018-03-04T06:52:33.239Z - success: store loaded
+2018-03-04T06:52:33.245Z - success: timeline loaded
+2018-03-04T06:52:33.245Z - normal: Loading builtin packages
+2018-03-04T06:52:33.248Z - success: asset-db-debugger loaded
+2018-03-04T06:52:33.250Z - success: code-editor loaded
+2018-03-04T06:52:33.251Z - success: color-picker loaded
+2018-03-04T06:52:33.255Z - success: package-manager loaded
+2018-03-04T06:52:33.261Z - success: sdkbox loaded
+2018-03-04T06:52:33.267Z - success: tester loaded
+2018-03-04T06:52:33.270Z - success: ui-kit-preview-extra loaded
+2018-03-04T06:52:33.272Z - success: ui-kit-preview loaded
+2018-03-04T06:52:33.275Z - success: ui-tree loaded
+2018-03-04T06:52:35.759Z - normal: Initializing project E:\miniGameProjects\basketballDemo
+2018-03-04T06:52:35.777Z - normal: Loading packages
+2018-03-04T06:52:35.783Z - normal: Watching packages
+2018-03-04T06:52:35.808Z - normal: Run Application
+2018-03-04T06:52:39.114Z - success: preview server running at http://localhost:7456
+2018-03-04T06:52:49.099Z - normal: 1.8.1
+2018-03-04T09:09:27.874Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "E:\\miniGameProjects\\basketballDemo\\build",
+  "debug": false,
+  "dest": "E:\\miniGameProjects\\basketballDemo\\build\\wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.basketballDemo",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "renderMode": "1",
+  "scenes": [
+    "42774c54-9d98-41c4-971b-bd696467c86f"
+  ],
+  "sourceMaps": false,
+  "startScene": "42774c54-9d98-41c4-971b-bd696467c86f",
+  "template": "link",
+  "title": "basketballDemo",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "portrait",
+  "wechatgame": {
+    "appid": "",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "9a61247c-4505-4b",
+  "zipCompressJs": true,
+  "project": "E:\\miniGameProjects\\basketballDemo",
+  "projectName": "basketballDemo",
+  "debugBuildWorker": false
+}
+2018-03-04T09:09:27.879Z - normal: Building E:\miniGameProjects\basketballDemo
+2018-03-04T09:09:27.880Z - normal: Destination E:\miniGameProjects\basketballDemo\build\wechatgame
+2018-03-04T09:09:28.888Z - normal: Delete E:\miniGameProjects\basketballDemo\build\wechatgame\**\*
+2018-03-04T09:09:34.266Z - normal: Compiled project javascript file successfully
+2018-03-04T09:09:34.267Z - normal: Start building assets
+2018-03-04T09:09:34.267Z - normal: Start spawn build-worker
+2018-03-04T09:09:35.777Z - normal: Finish spawn build-worker
+2018-03-04T09:09:35.777Z - normal: Start init build-worker
+2018-03-04T09:09:39.878Z - normal: 1.8.1
+2018-03-04T09:09:40.006Z - normal: Finish init build-worker
+2018-03-04T09:09:40.006Z - normal: Start build-assets in worker
+2018-03-04T09:09:40.674Z - normal: Finish build-assets in worker
+2018-03-04T09:09:40.694Z - normal: Finish building assets
+2018-03-04T09:09:40.756Z - normal: Start building raw assets
+2018-03-04T09:09:40.758Z - normal: Start building plugin scripts
+2018-03-04T09:09:40.914Z - normal: Finish building raw assets
+2018-03-04T09:09:41.092Z - normal: Generating main.js from D:\CocosCreator\resources\static\build-templates\shares\main.js
+2018-03-04T09:09:41.590Z - normal: Built to "E:\miniGameProjects\basketballDemo\build\wechatgame" successfully
+2018-03-04T09:15:18.021Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "E:\\miniGameProjects\\basketballDemo\\build",
+  "debug": false,
+  "dest": "E:\\miniGameProjects\\basketballDemo\\build\\wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.basketballDemo",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "renderMode": "1",
+  "scenes": [
+    "42774c54-9d98-41c4-971b-bd696467c86f"
+  ],
+  "sourceMaps": false,
+  "startScene": "42774c54-9d98-41c4-971b-bd696467c86f",
+  "template": "link",
+  "title": "basketballDemo",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "portrait",
+  "wechatgame": {
+    "appid": "wxb9ba19d19280bbf9",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "9a61247c-4505-4b",
+  "zipCompressJs": true,
+  "project": "E:\\miniGameProjects\\basketballDemo",
+  "projectName": "basketballDemo",
+  "debugBuildWorker": false
+}
+2018-03-04T09:15:18.025Z - normal: Building E:\miniGameProjects\basketballDemo
+2018-03-04T09:15:18.025Z - normal: Destination E:\miniGameProjects\basketballDemo\build\wechatgame
+2018-03-04T09:15:18.029Z - normal: Delete E:\miniGameProjects\basketballDemo\build\wechatgame\**\*
+2018-03-04T09:15:21.655Z - normal: Compiled project javascript file successfully
+2018-03-04T09:15:21.655Z - normal: Start building assets
+2018-03-04T09:15:21.656Z - normal: Start spawn build-worker
+2018-03-04T09:15:23.136Z - normal: Finish spawn build-worker
+2018-03-04T09:15:23.136Z - normal: Start init build-worker
+2018-03-04T09:15:26.751Z - normal: 1.8.1
+2018-03-04T09:15:26.847Z - normal: Finish init build-worker
+2018-03-04T09:15:26.848Z - normal: Start build-assets in worker
+2018-03-04T09:15:27.563Z - normal: Finish build-assets in worker
+2018-03-04T09:15:27.573Z - normal: Finish building assets
+2018-03-04T09:15:27.602Z - normal: Start building raw assets
+2018-03-04T09:15:27.604Z - normal: Start building plugin scripts
+2018-03-04T09:15:27.669Z - normal: Finish building raw assets
+2018-03-04T09:15:27.676Z - normal: Generating main.js from D:\CocosCreator\resources\static\build-templates\shares\main.js
+2018-03-04T09:15:27.851Z - normal: Built to "E:\miniGameProjects\basketballDemo\build\wechatgame" successfully
+2018-03-04T09:23:51.899Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "E:\\miniGameProjects\\basketballDemo\\build",
+  "debug": false,
+  "dest": "E:\\miniGameProjects\\basketballDemo\\build\\wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.basketballDemo",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "renderMode": "1",
+  "scenes": [
+    "42774c54-9d98-41c4-971b-bd696467c86f"
+  ],
+  "sourceMaps": false,
+  "startScene": "42774c54-9d98-41c4-971b-bd696467c86f",
+  "template": "link",
+  "title": "basketballDemo",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "portrait",
+  "wechatgame": {
+    "appid": "wxb9ba19d19280bbf9",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "9a61247c-4505-4b",
+  "zipCompressJs": true,
+  "project": "E:\\miniGameProjects\\basketballDemo",
+  "projectName": "basketballDemo",
+  "debugBuildWorker": false
+}
+2018-03-04T09:23:51.904Z - normal: Building E:\miniGameProjects\basketballDemo
+2018-03-04T09:23:51.905Z - normal: Destination E:\miniGameProjects\basketballDemo\build\wechatgame
+2018-03-04T09:23:51.905Z - normal: Delete E:\miniGameProjects\basketballDemo\build\wechatgame\**\*
+2018-03-04T09:23:57.070Z - normal: Compiled project javascript file successfully
+2018-03-04T09:23:57.070Z - normal: Start building assets
+2018-03-04T09:23:57.070Z - normal: Start spawn build-worker
+2018-03-04T09:23:59.033Z - normal: Finish spawn build-worker
+2018-03-04T09:23:59.033Z - normal: Start init build-worker
+2018-03-04T09:24:03.545Z - normal: 1.8.1
+2018-03-04T09:24:03.648Z - normal: Finish init build-worker
+2018-03-04T09:24:03.648Z - normal: Start build-assets in worker
+2018-03-04T09:24:04.229Z - normal: Finish build-assets in worker
+2018-03-04T09:24:04.296Z - normal: Finish building assets
+2018-03-04T09:24:04.319Z - normal: Start building raw assets
+2018-03-04T09:24:04.320Z - normal: Start building plugin scripts
+2018-03-04T09:24:04.445Z - normal: Finish building raw assets
+2018-03-04T09:24:04.451Z - normal: Generating main.js from D:\CocosCreator\resources\static\build-templates\shares\main.js
+2018-03-04T09:24:04.742Z - normal: Built to "E:\miniGameProjects\basketballDemo\build\wechatgame" successfully
+2018-03-04T09:25:32.463Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "E:\\miniGameProjects\\basketballDemo\\build",
+  "debug": false,
+  "dest": "E:\\miniGameProjects\\basketballDemo\\build\\wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.basketballDemo",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "renderMode": "1",
+  "scenes": [
+    "42774c54-9d98-41c4-971b-bd696467c86f"
+  ],
+  "sourceMaps": false,
+  "startScene": "42774c54-9d98-41c4-971b-bd696467c86f",
+  "template": "link",
+  "title": "basketballDemo",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "portrait",
+  "wechatgame": {
+    "appid": "wxb9ba19d19280bbf9",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "9a61247c-4505-4b",
+  "zipCompressJs": true,
+  "project": "E:\\miniGameProjects\\basketballDemo",
+  "projectName": "basketballDemo",
+  "debugBuildWorker": false
+}
+2018-03-04T09:25:32.467Z - normal: Building E:\miniGameProjects\basketballDemo
+2018-03-04T09:25:32.467Z - normal: Destination E:\miniGameProjects\basketballDemo\build\wechatgame
+2018-03-04T09:25:32.468Z - normal: Delete E:\miniGameProjects\basketballDemo\build\wechatgame\**\*
+2018-03-04T09:25:37.252Z - normal: Compiled project javascript file successfully
+2018-03-04T09:25:37.253Z - normal: Start building assets
+2018-03-04T09:25:37.253Z - normal: Start spawn build-worker
+2018-03-04T09:25:39.284Z - normal: Finish spawn build-worker
+2018-03-04T09:25:39.284Z - normal: Start init build-worker
+2018-03-04T09:25:43.033Z - normal: 1.8.1
+2018-03-04T09:25:43.139Z - normal: Finish init build-worker
+2018-03-04T09:25:43.139Z - normal: Start build-assets in worker
+2018-03-04T09:25:43.701Z - normal: Finish build-assets in worker
+2018-03-04T09:25:43.729Z - normal: Finish building assets
+2018-03-04T09:25:43.774Z - normal: Start building raw assets
+2018-03-04T09:25:43.775Z - normal: Start building plugin scripts
+2018-03-04T09:25:43.893Z - normal: Finish building raw assets
+2018-03-04T09:25:43.897Z - normal: Generating main.js from D:\CocosCreator\resources\static\build-templates\shares\main.js
+2018-03-04T09:25:44.178Z - normal: Built to "E:\miniGameProjects\basketballDemo\build\wechatgame" successfully
+2018-03-04T09:26:45.761Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "E:\\miniGameProjects\\basketballDemo\\build",
+  "debug": false,
+  "dest": "E:\\miniGameProjects\\basketballDemo\\build\\wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.basketballDemo",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "renderMode": "1",
+  "scenes": [
+    "42774c54-9d98-41c4-971b-bd696467c86f"
+  ],
+  "sourceMaps": false,
+  "startScene": "42774c54-9d98-41c4-971b-bd696467c86f",
+  "template": "link",
+  "title": "basketballDemo",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "portrait",
+  "wechatgame": {
+    "appid": "wxb9ba19d19280bbf9",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "9a61247c-4505-4b",
+  "zipCompressJs": true,
+  "project": "E:\\miniGameProjects\\basketballDemo",
+  "projectName": "basketballDemo",
+  "debugBuildWorker": false
+}
+2018-03-04T09:26:45.762Z - normal: Building E:\miniGameProjects\basketballDemo
+2018-03-04T09:26:45.762Z - normal: Destination E:\miniGameProjects\basketballDemo\build\wechatgame
+2018-03-04T09:26:45.762Z - normal: Delete E:\miniGameProjects\basketballDemo\build\wechatgame\**\*
+2018-03-04T09:26:50.906Z - normal: Compiled project javascript file successfully
+2018-03-04T09:26:50.907Z - normal: Start building assets
+2018-03-04T09:26:50.907Z - normal: Start spawn build-worker
+2018-03-04T09:26:52.997Z - normal: Finish spawn build-worker
+2018-03-04T09:26:52.998Z - normal: Start init build-worker
+2018-03-04T09:26:56.865Z - normal: 1.8.1
+2018-03-04T09:26:56.967Z - normal: Finish init build-worker
+2018-03-04T09:26:56.967Z - normal: Start build-assets in worker
+2018-03-04T09:26:57.597Z - normal: Finish build-assets in worker
+2018-03-04T09:26:57.609Z - normal: Finish building assets
+2018-03-04T09:26:57.633Z - normal: Start building raw assets
+2018-03-04T09:26:57.633Z - normal: Start building plugin scripts
+2018-03-04T09:26:57.740Z - normal: Finish building raw assets
+2018-03-04T09:26:57.744Z - normal: Generating main.js from D:\CocosCreator\resources\static\build-templates\shares\main.js
+2018-03-04T09:26:57.997Z - normal: Built to "E:\miniGameProjects\basketballDemo\build\wechatgame" successfully
+2018-03-04T09:27:50.282Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "E:\\miniGameProjects\\basketballDemo\\build",
+  "debug": false,
+  "dest": "E:\\miniGameProjects\\basketballDemo\\build\\wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.basketballDemo",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "renderMode": "1",
+  "scenes": [
+    "42774c54-9d98-41c4-971b-bd696467c86f"
+  ],
+  "sourceMaps": false,
+  "startScene": "42774c54-9d98-41c4-971b-bd696467c86f",
+  "template": "link",
+  "title": "basketballDemo",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "portrait",
+  "wechatgame": {
+    "appid": "wxb9ba19d19280bbf9",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "9a61247c-4505-4b",
+  "zipCompressJs": true,
+  "project": "E:\\miniGameProjects\\basketballDemo",
+  "projectName": "basketballDemo",
+  "debugBuildWorker": false
+}
+2018-03-04T09:27:50.283Z - normal: Building E:\miniGameProjects\basketballDemo
+2018-03-04T09:27:50.283Z - normal: Destination E:\miniGameProjects\basketballDemo\build\wechatgame
+2018-03-04T09:27:50.283Z - normal: Delete E:\miniGameProjects\basketballDemo\build\wechatgame\**\*
+2018-03-04T09:27:55.232Z - normal: Compiled project javascript file successfully
+2018-03-04T09:27:55.233Z - normal: Start building assets
+2018-03-04T09:27:55.233Z - normal: Start spawn build-worker
+2018-03-04T09:27:57.212Z - normal: Finish spawn build-worker
+2018-03-04T09:27:57.212Z - normal: Start init build-worker
+2018-03-04T09:28:01.748Z - normal: 1.8.1
+2018-03-04T09:28:01.861Z - normal: Finish init build-worker
+2018-03-04T09:28:01.862Z - normal: Start build-assets in worker
+2018-03-04T09:28:02.544Z - normal: Finish build-assets in worker
+2018-03-04T09:28:02.577Z - normal: Finish building assets
+2018-03-04T09:28:02.604Z - normal: Start building raw assets
+2018-03-04T09:28:02.605Z - normal: Start building plugin scripts
+2018-03-04T09:28:02.753Z - normal: Finish building raw assets
+2018-03-04T09:28:02.758Z - normal: Generating main.js from D:\CocosCreator\resources\static\build-templates\shares\main.js
+2018-03-04T09:28:03.014Z - normal: Built to "E:\miniGameProjects\basketballDemo\build\wechatgame" successfully
